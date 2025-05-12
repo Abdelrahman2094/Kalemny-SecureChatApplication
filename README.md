@@ -68,14 +68,6 @@ Kalemny-SecureChatApplication/
 
 - Use `SecureChatApplicationTest.java` under `securechatapplicationtest` for unit tests.
 
-## 📄 Documentation
 
-All related documentation is available in the `downloads/` folder, including:
-- Project Proposal
-- Final Report
-- Related Research Papers
+ 
 
-## 👨‍💻 Contributors
-
-- Yassin Essam  
-- [Add others if needed]
